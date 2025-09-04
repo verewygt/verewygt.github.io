@@ -471,6 +471,66 @@
 		{
 			"perk_name": "Unforeseen",
 			"character": "The Unknown Teachable Perk"
+		},
+		{
+			"perk_name": "Dark Arrogance",
+			"character": "The Lich Teachable Perk"
+		},
+		{
+			"perk_name": "Languid Touch",
+			"character": "The Lich Teachable Perk"
+		},
+		{
+			"perk_name": "Weave Attunement",
+			"character": "The Lich Teachable Perk"
+		},
+		{
+			"perk_name": "Dominance",
+			"character": "The Dark Lord Teachable Perk"
+		},
+		{
+			"perk_name": "Hex: Wretched Fate",
+			"character": "The Dark Lord Teachable Perk"
+		},
+		{
+			"perk_name": "Human Greed",
+			"character": "The Dark Lord Teachable Perk"
+		},
+		{
+			"perk_name": "All Shaking Thunder",
+			"character": "The HoundMaster Teachable Perk"
+		},
+		{
+			"perk_name": "No Quarter",
+			"character": "The HoundMaster Teachable Perk"
+		},
+		{
+			"perk_name": "Scourge Hook: Jagged Compass",
+			"character": "The HoundMaster Teachable Perk"
+		},
+		{
+			"perk_name": "Forever Entwined",
+			"character": "The Ghoul Perk"
+		},
+		{
+			"perk_name": "Hex: Nothing But Misery",
+			"character": "The Ghoul Perk"
+		},
+		{
+			"perk_name": "None Are Free",
+			"character": "The Ghoul Perk"
+		},
+		{
+			"perk_name": "Haywire",
+			"character": "The Animatronic Teachable Perk"
+		},
+		{
+			"perk_name": "Help Wanted",
+			"character": "The Animatronic Teachable Perk"
+		},
+		{
+			"perk_name": "Phantom Fear",
+			"character": "The Animatronic Teachable Perk"
 		}
 	]
 }

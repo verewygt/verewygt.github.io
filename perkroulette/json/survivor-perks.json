@@ -536,6 +536,78 @@
 		{
 			"perk_name": "Wicked",
 			"character": "Sable Ward Teachable Perk"
+		},
+		{
+			"perk_name": "Bardic Inspiration",
+			"character": "Aestri Yazar & Baermar Uraz Teachable Perk"
+		},
+		{
+			"perk_name": "Mirrored Illusion",
+			"character": "Aestri Yazar & Baermar Uraz Teachable Perk"
+		},
+		{
+			"perk_name": "Still Sight",
+			"character": "Aestri Yazar & Baermar Uraz Teachable Perk"
+		},
+		{
+			"perk_name": "Finesse",
+			"character": "Lara Croft Teachable Perk"
+		},
+		{
+			"perk_name": "Hardened",
+			"character": "Lara Croft Teachable Perk"
+		},
+		{
+			"perk_name": "Specialist",
+			"character": "Lara Croft Teachable Perk"
+		},
+		{
+			"perk_name": "Exultation",
+			"character": "Trevor Belmont Teachable Perk"
+		},
+		{
+			"perk_name": "Eyes of Belmont",
+			"character": "Trevor Belmont Teachable Perk"
+		},
+		{
+			"perk_name": "Moment of Glory",
+			"character": "Trevor Belmont Teachable Perk"
+		},
+		{
+			"perk_name": "Clean Break",
+			"character": "Taurie Cain Teachable Perk"
+		},
+		{
+			"perk_name": "Invocation: Treacherous Crows",
+			"character": "Taurie Cain Teachable Perk"
+		},
+		{
+			"perk_name": "Shoulder the Burden",
+			"character": "Taurie Cain Teachable Perk"
+		},
+		{
+			"perk_name": "Apocalyptic Ingenuity",
+			"character": "Rick Grimes Teachable Perk"
+		},
+		{
+			"perk_name": "Come and Get Me!",
+			"character": "Rick Grimes Teachable Perk"
+		},
+		{
+			"perk_name": "Teamwork: Toughen Up",
+			"character": "Rick Grimes Teachable Perk"
+		},
+		{
+			"perk_name": "Conviction",
+			"character": "Michonne Grimes Teachable Perk"
+		},
+		{
+			"perk_name": "Last Stand",
+			"character": "Michonne Grimes Teachable Perk"
+		},
+		{
+			"perk_name": "Teamwork: Throw Down",
+			"character": "Michonne Grimes Teachable Perk"
 		}
 	]
 }
